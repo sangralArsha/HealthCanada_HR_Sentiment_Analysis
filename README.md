@@ -146,21 +146,21 @@ We developed three dashboards that aimed to tell a story about our findings. 
 
 The main dashboard was meant to visualize the overall sentiment score, the change of sentiment over time, the top five demographics with positive and negative sentiments, the top five themes with positive and negative sentiments, and the keywords associated with positive or negative sentiments. 
 
-![alt text](ONE.PNG)
+![alt text](overall_Dashboard.PNG)
 
 The dashboard allows the user to drill down by organization, demographic, survey year or theme using slicers.
 
 ## The Question Analysis Dashboard
 
-![alt text](TWO.PNG)
+![alt text](SubIndicator_Dashboard.PNG)
 
-This dashboard aimed to drill down on each question from the survey, survey, organization and demographics. From this dashboard, you would find out the average sentiment for each question and sub theme based on the organization or demographic.
+This dashboard aimed to drill down on each question from the survey, survey, organization and demographics. From this dashboard, you would find out the average sentiment for each question and sub-theme based on the organization or demographic.
 
 ## The Sensitive Demographic Comparison Dashboard
 
 This dashboard was meant to compare the sentiment and sentiment change over time for the demographics we considered as the most sensitive, which were gender, racial diversity, and the 2SLGBTQIA+ status. The user can drill down by organization and sub-theme using slicers.
 
-![alt text](THREE.PNG)
+![alt text](Sensitive_Demographic_Dashboard.PNG)
 
 ## Value
 
